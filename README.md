@@ -1,10 +1,10 @@
-# \# Juego del Ahorcado (C++)
+# Juego del Ahorcado (C++)
 
 Práctica de examen implementando un juego de consola por rondas.
 
 # 
 
-# \## Reglas
+# Reglas
 
 -Ganas si vences en 2 de 3 rondas.
 
